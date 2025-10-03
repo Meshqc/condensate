@@ -177,4 +177,3 @@ flask run --debug
 
 ---
 
-**Note**: This project is designed as a class assignment for MSBCB students. Adjust scope and complexity based on available time and programming background.
