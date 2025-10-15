@@ -1,6 +1,6 @@
 # Condensate: FuzDrop-like Protein Phase Separation Predictor
 
-A class project for building a web-based tool to predict liquid-liquid phase separation (LLPS) propensity in proteins, similar to FuzDrop.
+A class project for building a web-based tool to predict liquid-liquid phase separation (LLPS) propensity in proteins.
 
 ## 🎯 Project Overview
 
